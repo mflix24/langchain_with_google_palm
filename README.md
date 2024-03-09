@@ -1,2 +1,1 @@
-This is a repository for creating an end to end project using
-Langchain with Google Palm.
+This is an end to end LLM project based on Google Palm and Langchain. We are building a system that can talk to MySQL database. User asks questions and the system generates answers by converting those questions to an SQL query and then executing that query on MySQL database. TIMS is a T-shirt Inventory Management System where they maintain their inventory, sales and discounts data in MySQL database.
